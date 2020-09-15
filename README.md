@@ -1,7 +1,7 @@
 # DesignPattern
 Implement design pattern via cpp
 
-I found a project named [](https://github.com/me115/design_patterns) on Github.
+I found a project named [design_patterns](https://github.com/me115/design_patterns) on Github.
 
 It looks very friendly project to newbee as me. ^_^
 
